@@ -1,3 +1,7 @@
+# Introdução
+
+A proposta do projeto de API é dar continuidade ao <a href="https://github.com/srtakatsumi/Gamma_Challenge">primeiro desafio</a>, nessa fase iremos trabalhar aspectos de contrução em um BackEnd.
+
 <p> Contexto: </p>
       
  Somos parte de uma equipe de desenvolvimento de software que está criando uma série de ferramentas para gestão de eCommerces. Neste sentido, precisamos atender algumas necessidades de gestores destas plataformas. Precisamos criar soluções para ajudar nossos gestores a extrair dados de inventários de seus respectivos estoques.</p> 
