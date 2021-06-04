@@ -11,7 +11,7 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 
 <h4>Desafio em grupo criando uma API:</h4> 
 
-- Para baixar o repositório : <b>git clone  <a href="https://github.com/Luciana-mon/aula12restapi">https://github.com/Luciana-mon/aula12restapi </a> </b> <br>
+- Para baixar o repositório : <b>git clone  <a href="https://github.com/Luciana-mon/API-Ecommerce/">https://github.com/Luciana-mon/API-Ecommerce/ </a> </b> <br>
 - Abrir o projeto no vscode <br>
 - Para baixar o projeto <b>npm intall </b> <br>
 
