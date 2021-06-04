@@ -94,7 +94,7 @@ class ControllerTeste {
         if (!buscadepartamento) {
 
             return res.status(404).json({
-                error: 'Esta faltando algo'
+                error: 'Departamento não encontrado'
             })
 
         } else {
@@ -118,16 +118,14 @@ class ControllerTeste {
     }
 
     async produtoId(req, res) {
-        const {
-            id
-        } = req.params
+        const {id} = req.params
         const buscaProduto = listaproduto.find(produto => produto.codProduto == id);
 
 
         if (!buscaProduto) {
 
             return res.status(404).json({
-                error: 'Esta faltando algo'
+                error: 'Produto não encontrado'
             })
 
         } else {
