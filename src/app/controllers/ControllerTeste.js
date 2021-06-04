@@ -10,8 +10,7 @@ class ControllerTeste {
 
 
 
-    async updateput(req, res) {
-        console.log("entrei")
+    async updateput(req, res) {        
         const {id} = req.params
         const produto = [req.body]
         
@@ -140,13 +139,10 @@ class ControllerTeste {
     }
 
 
-    async updateput(req, res) {
+    
+    
 
-    }
-
-    async delete(req, res) {
-
-    }
+    
 
 }
 

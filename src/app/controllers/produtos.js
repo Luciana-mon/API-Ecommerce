@@ -1,6 +1,6 @@
 export const listaproduto = [
     
-    {       codProduto: 1245, preco: 12,
+    {       codProduto: 1245, 
             descricao: 'SPEAKER AMAZON ECHO DOT 4 GER ALEXA/WIFI AZUL',
             preco: 38.5,
             qtdEstoque: 0,

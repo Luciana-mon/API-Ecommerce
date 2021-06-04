@@ -16,7 +16,7 @@ routes.post('/incluirproduto',ControllerTeste.storepost);
 
 routes.put('/alterarproduto/:id',ControllerTeste.updateput);
 
-routes.delete('/deletar',ControllerTeste.delete);
+
    
 
 export default routes;
