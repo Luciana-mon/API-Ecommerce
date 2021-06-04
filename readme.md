@@ -34,11 +34,10 @@ Como interagir com o localhost e localizar os dados:<br>
 - <a href="http://localhost:8888/produtoid/">/produtoid/:id</a>, retorna um unico material solicitado, infomrar após o /produto/ o número do produto <br>
 - <a href="http://localhost:8888/listaDepartamento"> /listaDepartamento</a>, retorna a lista de departamento <br>
 - <a href="http://localhost:8888/departamento/:id"> /departamento/:id</a>, retorna todos os itens de um unico departamento <br>
-GET: possivel erros:
-- <a href="http://localhost:8888/produtoid/2578">  retorna erro de produto não encontrado.
-- <a href="http://localhost:8888/departamento/15"> retorna erro departamento não encontrado. 
-
+- <a href="http://localhost:8888/produtoid/2578"> /produtoid/:id</a>, retorna erro:  produto não encontrado. <br>
+- <a href="http://localhost:8888/departamento/15"> /departamento/:id</a>, retorna erro: departamento não encontrado. <br>
 <br>
+
 Dentro do Postman colocar a chamada POST:<br>
 - <a href="http://localhost:8888/incluirproduto"> /incluirproduto</a>, inclui produtos na url <br>
 <br>
